@@ -1,0 +1,16 @@
+jupyter
+spacy
+emoji
+torch
+torchvision
+torchaudio
+transformers
+datasets
+pandas
+numpy
+tqdm
+accelerate
+langdetect
+bitsandbytes>=0.43.0
+bitsandbytes-windows
+sentencepiece
